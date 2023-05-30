@@ -8,6 +8,10 @@ Sleeping Barber: https://en.wikipedia.org/wiki/Sleeping_barber_problem
 
 The sleeping TA is the same problem, but in this case its just a teacher assistant helping students instead of a barber. 
 
+If you want to create your own test data in a text document, the columns are identified as such:
+
+Student ID, First Arrival Time, Time needed from TA
+
 # Requirements
 
 	* Make
