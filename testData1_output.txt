@@ -1,0 +1,28 @@
+Below is a sample of results that can be printed from running the program with testData1. Information is printed to console screen.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TA office is now open.
+Student ID: 5 | Student Arrive Time: Wed Jul 27 13:25:31 2022
+ | Student Leave Time: Wed Jul 27 13:25:31 2022
+ | Provided Service: No
+Student ID: 1 | Student Arrive Time: Wed Jul 27 13:21:31 2022
+ | Student Leave Time: Wed Jul 27 13:26:31 2022
+ | Provided Service: Yes
+Student ID: 2 | Student Arrive Time: Wed Jul 27 13:22:31 2022
+ | Student Leave Time: Wed Jul 27 13:28:31 2022
+ | Provided Service: Yes
+Student ID: 3 | Student Arrive Time: Wed Jul 27 13:23:31 2022
+ | Student Leave Time: Wed Jul 27 13:29:31 2022
+ | Provided Service: Yes
+Student ID: 4 | Student Arrive Time: Wed Jul 27 13:24:31 2022
+ | Student Leave Time: Wed Jul 27 13:32:31 2022
+ | Provided Service: Yes
+TA office is now close.
+Student ID: 5 | Student Arrive Time: Wed Jul 27 13:39:31 2022
+ | Student Leave Time: Wed Jul 27 13:44:31 2022
+ | Provided Service: Yes
+Statistics:
+% time the TA was busy helping students: 66.666667%
+Average time a student had to wait to get help: 2.800000 minutes
+Average number of times a student had to come back for help (due to lack of chairs): 0.166667 times

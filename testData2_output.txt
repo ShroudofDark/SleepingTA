@@ -1,0 +1,157 @@
+Below is a sample of results that can be printed from running the program with testData2. Information is printed to console screen.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TA office is now open.
+Student ID: 1 | Student Arrive Time: Thu Jul 28 15:34:31 2022
+ | Student Leave Time: Thu Jul 28 16:01:31 2022
+ | Provided Service: Yes
+Student ID: 6 | Student Arrive Time: Thu Jul 28 16:24:31 2022
+ | Student Leave Time: Thu Jul 28 16:24:31 2022
+ | Provided Service: No
+Student ID: 2 | Student Arrive Time: Thu Jul 28 15:37:31 2022
+ | Student Leave Time: Thu Jul 28 16:30:31 2022
+ | Provided Service: Yes
+Student ID: 6 | Student Arrive Time: Thu Jul 28 16:35:31 2022
+ | Student Leave Time: Thu Jul 28 16:35:31 2022
+ | Provided Service: No
+Student ID: 8 | Student Arrive Time: Thu Jul 28 16:48:31 2022
+ | Student Leave Time: Thu Jul 28 16:48:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 16:54:31 2022
+ | Student Leave Time: Thu Jul 28 16:54:31 2022
+ | Provided Service: No
+Student ID: 3 | Student Arrive Time: Thu Jul 28 15:55:31 2022
+ | Student Leave Time: Thu Jul 28 16:59:31 2022
+ | Provided Service: Yes
+Student ID: 9 | Student Arrive Time: Thu Jul 28 17:01:31 2022
+ | Student Leave Time: Thu Jul 28 17:01:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 17:08:31 2022
+ | Student Leave Time: Thu Jul 28 17:08:31 2022
+ | Provided Service: No
+Student ID: 4 | Student Arrive Time: Thu Jul 28 16:10:31 2022
+ | Student Leave Time: Thu Jul 28 17:11:31 2022
+ | Provided Service: Yes
+Student ID: 10 | Student Arrive Time: Thu Jul 28 17:21:31 2022
+ | Student Leave Time: Thu Jul 28 17:21:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 17:21:31 2022
+ | Student Leave Time: Thu Jul 28 17:21:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 17:22:31 2022
+ | Student Leave Time: Thu Jul 28 17:22:31 2022
+ | Provided Service: No
+Student ID: 10 | Student Arrive Time: Thu Jul 28 17:32:31 2022
+ | Student Leave Time: Thu Jul 28 17:32:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 17:33:31 2022
+ | Student Leave Time: Thu Jul 28 17:33:31 2022
+ | Provided Service: No
+Student ID: 12 | Student Arrive Time: Thu Jul 28 17:34:31 2022
+ | Student Leave Time: Thu Jul 28 17:34:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 17:35:31 2022
+ | Student Leave Time: Thu Jul 28 17:35:31 2022
+ | Provided Service: No
+Student ID: 5 | Student Arrive Time: Thu Jul 28 16:22:31 2022
+ | Student Leave Time: Thu Jul 28 17:40:31 2022
+ | Provided Service: Yes
+Student ID: 13 | Student Arrive Time: Thu Jul 28 17:46:31 2022
+ | Student Leave Time: Thu Jul 28 17:46:31 2022
+ | Provided Service: No
+Student ID: 10 | Student Arrive Time: Thu Jul 28 17:51:31 2022
+ | Student Leave Time: Thu Jul 28 17:51:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 17:52:31 2022
+ | Student Leave Time: Thu Jul 28 17:52:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 17:53:31 2022
+ | Student Leave Time: Thu Jul 28 17:53:31 2022
+ | Provided Service: No
+Student ID: 14 | Student Arrive Time: Thu Jul 28 17:54:31 2022
+ | Student Leave Time: Thu Jul 28 17:54:31 2022
+ | Provided Service: No
+Student ID: 13 | Student Arrive Time: Thu Jul 28 17:57:31 2022
+ | Student Leave Time: Thu Jul 28 17:57:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 18:04:31 2022
+ | Student Leave Time: Thu Jul 28 18:04:31 2022
+ | Provided Service: No
+Student ID: 14 | Student Arrive Time: Thu Jul 28 18:05:31 2022
+ | Student Leave Time: Thu Jul 28 18:05:31 2022
+ | Provided Service: No
+Student ID: 10 | Student Arrive Time: Thu Jul 28 18:05:31 2022
+ | Student Leave Time: Thu Jul 28 18:05:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 18:06:31 2022
+ | Student Leave Time: Thu Jul 28 18:06:31 2022
+ | Provided Service: No
+Student ID: 7 | Student Arrive Time: Thu Jul 28 16:32:31 2022
+ | Student Leave Time: Thu Jul 28 18:08:31 2022
+ | Provided Service: Yes
+Student ID: 8 | Student Arrive Time: Thu Jul 28 16:59:31 2022
+ | Student Leave Time: Thu Jul 28 18:14:31 2022
+ | Provided Service: Yes
+Student ID: 10 | Student Arrive Time: Thu Jul 28 18:18:31 2022
+ | Student Leave Time: Thu Jul 28 18:18:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 18:18:31 2022
+ | Student Leave Time: Thu Jul 28 18:18:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 18:19:31 2022
+ | Student Leave Time: Thu Jul 28 18:19:31 2022
+ | Provided Service: No
+Student ID: 9 | Student Arrive Time: Thu Jul 28 17:12:31 2022
+ | Student Leave Time: Thu Jul 28 18:23:31 2022
+ | Provided Service: Yes
+Student ID: 10 | Student Arrive Time: Thu Jul 28 18:32:31 2022
+ | Student Leave Time: Thu Jul 28 18:32:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 18:33:31 2022
+ | Student Leave Time: Thu Jul 28 18:33:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 18:33:31 2022
+ | Student Leave Time: Thu Jul 28 18:33:31 2022
+ | Provided Service: No
+Student ID: 6 | Student Arrive Time: Thu Jul 28 18:45:31 2022
+ | Student Leave Time: Thu Jul 28 18:45:31 2022
+ | Provided Service: No
+Student ID: 10 | Student Arrive Time: Thu Jul 28 18:50:31 2022
+ | Student Leave Time: Thu Jul 28 18:50:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 18:51:31 2022
+ | Student Leave Time: Thu Jul 28 18:51:31 2022
+ | Provided Service: No
+Student ID: 12 | Student Arrive Time: Thu Jul 28 17:45:31 2022
+ | Student Leave Time: Thu Jul 28 18:53:31 2022
+ | Provided Service: Yes
+Student ID: 15 | Student Arrive Time: Thu Jul 28 18:10:31 2022
+ | Student Leave Time: Thu Jul 28 18:58:31 2022
+ | Provided Service: Yes
+Student ID: 11 | Student Arrive Time: Thu Jul 28 19:02:31 2022
+ | Student Leave Time: Thu Jul 28 19:02:31 2022
+ | Provided Service: No
+Student ID: 11 | Student Arrive Time: Thu Jul 28 19:16:31 2022
+ | Student Leave Time: Thu Jul 28 19:16:31 2022
+ | Provided Service: No
+Student ID: 13 | Student Arrive Time: Thu Jul 28 18:16:31 2022
+ | Student Leave Time: Thu Jul 28 19:25:31 2022
+ | Provided Service: Yes
+Student ID: 14 | Student Arrive Time: Thu Jul 28 18:24:31 2022
+ | Student Leave Time: Thu Jul 28 19:51:31 2022
+ | Provided Service: Yes
+Student ID: 6 | Student Arrive Time: Thu Jul 28 18:56:31 2022
+ | Student Leave Time: Thu Jul 28 20:12:31 2022
+ | Provided Service: Yes
+Student ID: 10 | Student Arrive Time: Thu Jul 28 19:01:31 2022
+ | Student Leave Time: Thu Jul 28 20:31:31 2022
+ | Provided Service: Yes
+TA office is now close.
+Student ID: 11 | Student Arrive Time: Thu Jul 28 19:31:31 2022
+ | Student Leave Time: Thu Jul 28 20:42:31 2022
+ | Provided Service: Yes
+Statistics:
+% time the TA was busy helping students: 98.402556%
+Average time a student had to wait to get help: 48.400000 minutes
+Average number of times a student had to come back for help (due to lack of chairs): 0.693878 times
