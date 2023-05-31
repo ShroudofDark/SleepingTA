@@ -1,6 +1,6 @@
 # Overview
 
-This project is the Sleeping TA problem done via software. It uses semaphores and threads to simulate the experience. I would recommend changing the defined MINUTES_AS_SECONDS to a number small than 60 to have the program run faster, as a requirement when writing this program originally was to have it wait accurately to real life time. The overall statistics will scale appropriately to that number being changed.
+This project is the Sleeping TA problem done via software. It uses semaphores and threads to simulate the experience. I would recommend changing the defined MINUTES_AS_SECONDS to a number smaller than 60 to have the program run faster, as a requirement for writing this program originally was to have it wait accurately to real time. The overall statistics will scale appropriately to that number being changed.
 
 Below is how to run the code, if there are any issues please let me know. 
 
